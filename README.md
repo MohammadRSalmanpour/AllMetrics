@@ -1,7 +1,6 @@
 # AllMetrics: A Unified Python Library for Standardized Metric Evaluation in Machine Learning
 
 **Paper:** coming Soon
-
 **PyPI:** https://pypi.org/project/allmetrics/  
 **Python Version:** 3.11+
 
