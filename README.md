@@ -1,5 +1,7 @@
 # AllMetrics: A Unified Python Library for Standardized Metric Evaluation in Machine Learning
 
+**Paper Title:** AllMetrics: A Unified Python Library for Standardized Metric Evaluation and Robust Data Validation in Machine Learning.
+
 **Paper:** coming Soon.
 
 **PyPI:** https://pypi.org/project/allmetrics/ 
