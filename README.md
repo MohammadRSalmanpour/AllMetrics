@@ -571,14 +571,14 @@ alizadehmorteza2020@gmail.com
 # 👥Authors
 
 - **Morteza Alizadeh (Backend Development, Code Refactoring, Debugging, Library Management)**
-- **Mehrdad Oveisi (Evaluator, Software Engineer, and Advisor)** 
+- **Mehrdad Oveisi (Evaluator, Software Engineer, AI Expert, and Advisor)** 
 - **Sonya Falahati (Testing and Data prepration)** 
-- **Ghazal Mousavi (Testing and Data prepration)**
-- **Mohsen Alambardar Meybodi (Advisor)**
-- **Somayeh Sadat Mehrnia (Coordinator)**
-- **Ilker Hacihaliloglu (Advisor)**
+- **Ghazal Mousavi (Backend Development, Testing, and Data prepration)**
+- **Mohsen Alambardar Meybodi (Advisor and Evaluator)**
+- **Somayeh Sadat Mehrnia (Coordinator and Evaluator)**
+- **Ilker Hacihaliloglu (Medical Imaging Expert and Advisor)**
 - **Arman Rahmim (Fund Provider, Medical Imaging Expert, Evaluator, and Advisor)** 
-- **Mohammad R. Salmanpour (Fund Provider, Medical Imaging Expert, Evaluator, and Advisor)** 
+- **Mohammad R. Salmanpour (Team Lead, Conceptualization, Supervisor, Fund Provider, AI and Medical Imaging Expert, and Evaluator)** 
 
 # 📚Citation
 
