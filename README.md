@@ -547,7 +547,7 @@ AllMetrics makes these assumptions explicit through configuration parameters.
 
 # 🕒 Version History
 
-### v0.0.0 — 2025-03-05
+### v1.0.10 — 2025-03-05
 Initial public release of AllMetrics.
 Key features:
 
