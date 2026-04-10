@@ -4,6 +4,8 @@
 
 **PyPI:** https://pypi.org/project/allmetrics/ 
 
+**GitHub:** https://github.com/MohammadRSalmanpour/AllMetrics  
+
 **Python Version:** 3.11+
 
 **AllMetrics** is a comprehensive Python library designed to **standardize performance metric evaluation across diverse machine learning tasks**. It provides a unified API for computing metrics while ensuring **robust data validation, consistent implementations, and standardized reporting formats**.
